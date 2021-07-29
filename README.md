@@ -6,16 +6,20 @@ This project is about a social media website. Secrets is a website for sharing y
 - Then you will see all the secrets
 - You can add your new secret anonymously by clicking 'Add secret'
 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 ## Installation
-> clone the repo
+> Clone the repo
 ```sh
 git clone https://github.com/WebAhead10/secrets.git
 ```
-> download all the npm package
+> Download all the npm package
 ```sh
 npm i
 ```
-> start live server
+> Start live server
 ```sh
 npm start
 ```
