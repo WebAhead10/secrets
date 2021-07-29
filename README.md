@@ -32,4 +32,4 @@ npm start
 |jojo | 789 | 
 
 ## Demo
-Link for live [demo]() 
+Link for live [demo](https://61027379bac7919ba8deae0c--optimistic-raman-064ee7.netlify.app/) 
