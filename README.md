@@ -25,7 +25,7 @@ npm start
 ```
 
 ## Data for login example
-| username | password |
+| Username | Password |
 |-----|-----|
 | barbie | 123|
 |sameer | 456 |
