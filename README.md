@@ -1,7 +1,12 @@
-# secrets
-secret is just social media platform to post any think can have in mind without name (in secret)
+# Secrets
 
-### how to use
+This project is about a social media website. Secrets is a website for sharing your secrets freely.
+
+- You have to enter the wright username and password
+- Then you will see all the secrets
+- You can add your new secret anonymously by clicking 'Add secret'
+
+## Installation
 > clone the repo
 ```sh
 git clone https://github.com/WebAhead10/secrets.git
@@ -10,6 +15,17 @@ git clone https://github.com/WebAhead10/secrets.git
 ```sh
 npm i
 ```
+> start live server
+```sh
+npm start
+```
 
-### Demo
-please try the [Demo](link)
+## Data for login example
+| username | password |
+|-----|-----|
+| barbie | 123|
+|sameer | 456 |
+|jojo | 789 | 
+
+## Demo
+Link for live [demo]() 
